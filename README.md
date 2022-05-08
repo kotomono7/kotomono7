@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Khoirul Umam
 Full-Stack Developer
 --------------------
 
-I have 7+ years working experience. I started my career as a Web Developer, after 3 years working as a Web Developer then I switched my career and became a Full-Stack Developer. Now I'm fully passionate on it and have 4+ years hands-on experience on designing, developing, and implementing applications and solutions using range of technologies and programming languages. I'm seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-Stack Developer.
+I started my career as a Web Developer. After 3 years working as a Web Developer, I switched my career and became a Full-Stack Developer. I'm fully passionate in this field and currently I have 7+ years hands-on experience on designing, developing, and implementing applications and solutions using various tech stacks.
 
 *   🌍  I'm based in Indonesia
 *   🖥️  See my portfolio at [Mas Mas Biasa](http://masmasbiasa.com)
