@@ -1,4 +1,4 @@
-Hi 👋 My name is Muhammad Khoirul Umam
+Hi 👋 I'm Umam (also known as Mas Mas Biasa)
 ======================================
 
 Full-Stack Developer
