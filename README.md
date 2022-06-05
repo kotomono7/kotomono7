@@ -4,7 +4,7 @@ Hello there, happy coding! 👋
 Full-Stack Developer
 --------------------
 
-I'm fully passionate in this field and currently I have 7+ years hands-on experience on designing, developing, and implementing applications and solutions using various tech stacks.
+I'm fully passionate in this field and currently have 7+ years hands-on experience on designing, developing, and implementing applications and solutions using various tech stacks. I love simple things and learn to simplify complicated things by using tech stuffs.
 
 *   🌍  I'm based in Indonesia
 *   🖥️  See my portfolio at [Mas Mas Biasa](http://masmasbiasa.com)
