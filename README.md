@@ -8,7 +8,7 @@ An experienced Full-stack Developer based in Indonesia. I have 5+ years hands-on
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [www.umam@gmail.com](mailto:www.umam@gmail.com)
-*   🚀  I'm currently working on [Barito Integra Teknologi](https://tecforces.com)
+*   🚀  I'm currently working at [Barito Integra Teknologi](https://tecforces.com)
 *   🧠  I'm learning UI/UX Design using Figma
 *   🤝  I'm open to collaborating on any interesting projects
 *   ⚡  I love to learn foreign languages especially Japanese
