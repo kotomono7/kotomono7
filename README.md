@@ -7,7 +7,7 @@ Full-Stack Developer | Backend Enthusiast
 An experienced Full-stack Developer based in Indonesia. I have 5+ years hands-on experience on designing, developing, and implementing applications or solutions using range of technologies and programming languages.
 
 *   🌍  I'm based in Indonesia
-*   🖥️  See my portfolio at [Mas Mas Biasa](http://masmasbiasa.com)
+[//]: #*   🖥️  See my portfolio at [Mas Mas Biasa](http://masmasbiasa.com)
 *   ✉️  You can contact me at [www.umam@gmail.com](mailto:www.umam@gmail.com)
 *   🚀  I'm currently working on [Barito Integra Teknologi](https://tecforces.com)
 *   🧠  I'm learning UI/UX Design using Figma
