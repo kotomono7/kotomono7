@@ -49,5 +49,7 @@ An experienced Full-stack Developer based in Pekalongan City, Indonesia. I have 
     <a href="https://www.linkedin.com/in/mkumam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
+<!---
 ### Support Me
 <a href="https://www.buymeacoffee.com/kotomono7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+--->
