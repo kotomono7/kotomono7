@@ -1,7 +1,7 @@
 Hello 👋 I'm Muhammad Khoirul Umam
 ==================================
 
-Full-Stack Developer | Backend Enthusiast
+Full-Stack Developer | Tech Enthusiast
 -----------------------------------------
 
 An experienced Full-stack Developer based in Pekalongan City, Indonesia. I have 5+ years hands-on experience on designing, developing, and implementing applications or solutions using range of technologies and programming languages.
